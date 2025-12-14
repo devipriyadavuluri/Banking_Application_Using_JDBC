@@ -1,0 +1,15 @@
+# IDE
+.vscode/
+.eclipse/
+.idea/
+
+# Build
+bin/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DB
+*.db
